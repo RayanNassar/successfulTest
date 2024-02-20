@@ -1,0 +1,26 @@
+//to add column ot row you have this 
+//grid-template-column : (the number of the column )
+//grid-template-row : (the number of the row )
+//all of this as parent 
+
+//as children :
+// you have this property to control the child element
+// grid-column-start : the number of the column 1 ,2 ,3 or whthever us ;
+
+// // and this property as select form the start to end {
+//     grid-column-start : 1;
+//     grid-column-end : 5;
+// }
+
+// and here the code is grid-column : is short code to all of the :
+// grid-column-start: and 
+// grid-column-end : good 
+// of course the grid-column : is start / end ;
+
+
+// and the grid-row : the same all the learned already at grid-column the same;
+
+// and the grid-area is the mix between grid-column and grid-row : so take it 
+// grid-area : 1/2/3/4 the first one is grid-row-start then gird-column-start then grid-row-end then grid-column-end good ;
+//  you have property call order to control the grid is already exist to another place :
+// 
